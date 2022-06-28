@@ -11,10 +11,6 @@ body {
 }
 .author {
   color: gray;
-}
-.capa {
-  font-size: 13px;
-  color: lightgray;
   padding-bottom: 25px;
 }
 .div-article {
@@ -32,4 +28,5 @@ body {
 .imagem {
   border-radius: 10px;
   margin-top: 25px;
+  width: 400px;
 }
